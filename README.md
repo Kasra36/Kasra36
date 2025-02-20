@@ -22,4 +22,4 @@
 I’m a passionate aspiring data analyst seeking opportunities to expand my knowledge and experience in the field. I’m currently focusing on completing personal projects and looking forward to participating in public projects to gain hands-on experience.
 
 ## 📞 Connect with Me:
-- [LinkedIn](www.linkedin.com/in/hoseintajali-dataanalyst)
+- [LinkedIn]([www.linkedin.com/in/hoseintajali-dataanalyst](https://www.linkedin.com/in/hoseintajali-dataanalyst/))
