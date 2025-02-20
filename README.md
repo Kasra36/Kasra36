@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kasra👋
+🔹 Data Analyst | Python | SQL | Data Visualization  
+🔹 Passionate about data-driven insights and predictive analytics  
+🔹 Currently working on my final M.S. data analysis project
 
-<!--
-**Kasra36/Kasra36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools I Use:
+- Python (Pandas, Scikit-learn)
+- SQL (MySQL, SQLite)
+- Jupyter Notebooks
+- Data Visualization (Power BI)
+- Machine Learning (Logistic Regression, Random Forest)
+- DB Browser
+- SQL Server Management Studio
+- Draw.io
 
-Here are some ideas to get you started:
+## 📂 Projects:
+- HarvardX: CS50's: Introduction to Computer Science (Edx)
+- 100 Days of Code: The Complete Python Pro Bootcamp (Udemy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 About Me:
+I’m a passionate aspiring data analyst seeking opportunities to expand my knowledge and experience in the field. I’m currently focusing on completing personal projects and looking forward to participating in public projects to gain hands-on experience.
+
+## 📞 Connect with Me:
+- [LinkedIn](www.linkedin.com/in/hoseintajali-dataanalyst)
