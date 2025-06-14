@@ -1,28 +1,41 @@
 Hi visitor 👋
-I'm Kasra *** welcome to my Github!
+
+Welcome to my Github ✨ 
+
+Have a look around to get to know me and all the exciting stuff I do here!
 
 😎 BIO 😎
-I'm a formal educator who got fascinated by the power of data and predictive modeling.  
-Currently pursuing a Master’s in IT and excited to contribute to both public and private data-driven projects.
+I'm a former ESL instructor who's now fascinated by the power of Information Technologies and their applications in modern life. Programming in Python excites me, and AI/ML gives me goosebumps!
 
-Here’s a bit about me:
+🌱 I believe that learning and growing are the keys to success, as long as I stay consistent.
+🤝 I'm open to collaborating on public projects, receiving feedback on my personal work, or just having a good old tech chat!
 
-   🔹 Data Analyst | Python | SQL | Data Visualization  
-   🔹 Passionate about turning data into actionable insights   
-   🔹 Currently doing my Master studies while working on some personal projects as well
+A bit more about me:
+🔹 Gamer
+🔹 Dreamer
+🔹 Traveller
+🔹 Car lover
 
-🔧 Technologies & Tools I Use 🔧
-   - Python  
-   - SQL  
-   - Data Visualization  
-   - Microsoft Excel  
-   - Machine Learning
+🔧 Languages, Modules (libraries), and Tools I use 🔧
+   - Python
+        * OOP
+        * pandas
+        * scipy
+        * turtle
+   - SQL
+   - sqlite3
+
+💻 Platforms I use 💻
+   - VS Code
+   - Orange Data Mining
+   - DB Browser
+   - SQL Server Management Studio
+   - Microsoft Office
 
 📂 Projects 📂
-   - 100 Days of Code Capstone Project
-   - Student Performance Prediction Model**  
-      - Built using Python, SQLite, and Artificial Neural Networks  
-      - A university final project focused on predictive analytics in education 
+   - 100 Days of Code Capstone Projects
+   - University Projects
+   - Personal Projects
 
 🏅 Courses 🏅
    - HarvardX: CS50 - Introduction to Computer Science
