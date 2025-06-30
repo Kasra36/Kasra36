@@ -22,6 +22,7 @@ A bit more about me:
         * pandas
         * scipy
         * turtle
+        * tkinter
    - SQL
    - sqlite3
 
