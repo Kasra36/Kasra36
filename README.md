@@ -20,7 +20,6 @@ A bit more about me:
    - Python
         * OOP
         * pandas
-        * scipy
         * turtle
         * tkinter
    - SQL
