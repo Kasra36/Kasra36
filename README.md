@@ -16,14 +16,20 @@ A bit more about me:
 🔹 Traveller
 🔹 Car lover
 
-🔧 Languages, Modules (libraries), and Tools I use 🔧
-   - Python
-        * OOP
-        * pandas
-        * turtle
-        * tkinter
-   - SQL
-   - sqlite3
+🔧 Languages, Libraries, and Tools I Use
+
+🐍 Python
+- Object-Oriented Programming (OOP)
+- Libraries & Modules:
+  - `pandas`
+  - `turtle`
+  - `tkinter`
+  - `requests`, `smtplib`
+  - `BeautifulSoup`, `Selenium`, `Flask`
+- Working with:
+  - APIs
+- Web Technologies:
+  - HTML, CSS
 
 💻 Platforms I use 💻
    - VS Code
