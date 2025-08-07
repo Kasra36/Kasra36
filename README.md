@@ -51,6 +51,3 @@ A bit more about me:
      * Using Databases with Python
      * Python Data Structures
    - 100 Days of Code: The Complete Python Pro Bootcamp
-
-📞 Connect with Me:
-   [LinkedIn]([www.linkedin.com/in/hoseintajali-dataanalyst](https://www.linkedin.com/in/hoseintajali-dataanalyst/))
