@@ -40,8 +40,6 @@ A bit more about me:
 
 📂 Projects 📂
    - 100 Days of Code Capstone Projects
-   - University Projects
-   - Personal Projects
 
 🏅 Courses 🏅
    - HarvardX: CS50 - Introduction to Computer Science
