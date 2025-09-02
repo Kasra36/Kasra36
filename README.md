@@ -27,12 +27,13 @@ A bit more about me:
   - `requests`, `smtplib`
   - `BeautifulSoup`, `Selenium`, `Flask`
 - Working with:
-  - APIs
+  - RESTful APIs
 - Web Technologies:
-  - HTML, CSS
+  - HTML, CSS, Bootstrap
 
 💻 Platforms I use 💻
    - VS Code
+   - PyCharm
    - Orange Data Mining
    - DB Browser
    - SQL Server Management Studio
