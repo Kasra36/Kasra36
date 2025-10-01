@@ -1,11 +1,8 @@
-# Hi visitor 👋
-
+<p align="center">
+## 😎 BIO 😎
+### Hi visitor 👋
 Welcome to my GitHub ✨  
 Have a look around to get to know me and all the exciting stuff I do here!
-
----
-
-## 😎 BIO 😎
 I'm a former ESL instructor who's now fascinated by the power of **Information Technologies** and their applications in modern life.  
 Programming in **Python** excites me, and **AI/ML** gives me goosebumps!  
 
@@ -31,7 +28,7 @@ A bit more about me:
 
 ### 📎 Frameworks
 <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" />
+          <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/flask.png" alt="flask"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
 </p>
@@ -49,6 +46,8 @@ A bit more about me:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
 </p>
+
+---
 
 ## 📂 Projects
 - **100 Days of Code** capstone projects  
@@ -69,3 +68,4 @@ A bit more about me:
 ---
 
 ✨ Thanks for stopping by! Feel free to explore my repositories, star anything you like, and connect with me. 🚀
+</p>
