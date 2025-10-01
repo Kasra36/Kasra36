@@ -1,29 +1,31 @@
 <div align="center">
 
-<h2>😎 BIO 😎</h2>
+<h2>Hi visitor 👋</h2>�
 
-<h3>Hi visitor 👋</h3>
 <p>
 Welcome to my GitHub ✨<br>
-Have a look around to get to know me and all the exciting stuff I do here!<br>
-I'm a former ESL instructor who's now fascinated by the power of <b>Information Technologies</b> and their applications in modern life.<br>
-Programming in <b>Python</b> excites me, and <b>AI/ML</b> gives me goosebumps!<br>
+Have a look around to get to know me and all the exciting stuff I do here!</p>
+
+<hr>
+
+<h3>😎 BIO 😎</h3>
+<p>
+I'm a former ESL instructor who's now fascinated by the power of Information Technologies and their applications in modern life.<br>
+Programming in Python excites me, and AI/ML gives me goosebumps!<br>
 🌱 I believe that learning and growing are the keys to success, as long as I stay consistent.<br>
 🤝 I'm open to collaborating on projects, receiving feedback on my personal work, or just having a good old tech chat!
 </p>
 
-<h3>A bit more about me:</h3>
-<ul>
-<li>🎮 Gamer</li>
-<li>🌍 Dreamer</li>
-<li>✈️ Traveller</li>
-<li>🚗 Car lover</li>
-</ul>
+<h3>A bit more about me?</h3>
+
+🎮 Gamer    🌍 Dreamer    ✈️ Traveller    🚗 Car lover
+
 
 <hr>
 
 <h2>🔧 Technologies & Tools</h2>
 
+<section>
 <h3>Programming Languages</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -45,13 +47,14 @@ Programming in <b>Python</b> excites me, and <b>AI/ML</b> gives me goosebumps!<b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/>
 </p>
-
+</section>
+<section>
 <h3>Development & Deployment</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
-
+</section>
 <hr>
 
 <h2>📂 Projects</h2>
@@ -64,19 +67,11 @@ Programming in <b>Python</b> excites me, and <b>AI/ML</b> gives me goosebumps!<b
 <hr>
 
 <h2>🏅 Courses</h2>
-<ul>
-<li><b>HarvardX: CS50</b> – Introduction to Computer Science</li>
-<li><b>University of Michigan (Python for Everybody Specialization)</b>
-  <ul>
-    <li>Programming for Everybody (Getting Started with Python)</li>
-    <li>Using Python to Access Web Data</li>
-    <li>Using Databases with Python</li>
-    <li>Python Data Structures</li>
-  </ul>
-</li>
-<li><b>100 Days of Code</b>: The Complete Python Pro Bootcamp</li>
-</ul>
+
+<b>Introduction to Computer Science</b> – HarvardX: CS50
+<b>Python for Everybody</b> - University of Michigan
+<b>100 Days of Code - The Complete Python Pro Bootcamp</b> - Udemy (The App Brewery)
 
 <hr>
 
-<p>✨ Thanks for stopping by! Feel free to explore my repositories, s
+✨ Thanks for stopping by! Feel free to explore my repositories ✨
