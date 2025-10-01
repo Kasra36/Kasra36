@@ -22,7 +22,7 @@ A bit more about me:
 
 ## 🔧 Technologies & Tools
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width=40px; height=40px" />
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
           
 - Object-Oriented Programming (OOP)  
 - **Libraries & Modules**:
