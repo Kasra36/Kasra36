@@ -59,14 +59,6 @@ Programming in Python excites me, and AI/ML gives me goosebumps!<br><br>
 
 <hr>
 
-<h2>📂 Projects 📂</h2>
-
-100 Days of Code capstone projects<br>
-Flask-based apps with database integration<br>
-Web scraping & automation with Selenium/BeautifulSoup<br>
-
-<hr>
-
 <h2>🏅 Courses 🏅</h2>
 
 <b>Introduction to Computer Science</b> – HarvardX: CS50<br>
