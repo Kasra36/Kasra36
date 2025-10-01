@@ -11,7 +11,7 @@ Have a look around to get to know me and all the exciting stuff I do here!</p>
 <h3>😎 BIO 😎</h3>
 <p>
 I'm a former ESL instructor who's now fascinated by the power of Information Technologies and their applications in modern life.<br>
-Programming in Python excites me, and AI/ML gives me goosebumps!<br>
+Programming in Python excites me, and AI/ML gives me goosebumps!<br><br>
 🌱 I believe that learning and growing are the keys to success, as long as I stay consistent.<br>
 🤝 I'm open to collaborating on projects, receiving feedback on my personal work, or just having a good old tech chat!
 </p>
