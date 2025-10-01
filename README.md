@@ -22,38 +22,33 @@ A bit more about me:
 
 ## 🔧 Technologies & Tools
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-          
-- **Libraries & Modules**:
-  - `pandas`, `tkinter`, `turtle`  
-  - `requests`, `smtplib`  
-  - `BeautifulSoup`, `Selenium`  
-  - `Flask`, `WTForms`, `Jinja`  
-  - **SQLAlchemy** (ORM)  
-- Working with RESTful APIs  
-- Web Technologies: **HTML, CSS, Bootstrap**  
+### ✍ Programming Languages
+<p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+</p>
 
-### ⚙️ Programming Practices
-- **Version Control**: Git & GitHub  
-- **Git Desktop** for visual management  
-- **Decorators** for cleaner and reusable code  
-- Writing modular and maintainable scripts  
+### 📎 Frameworks
+<p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+</p>
+
+### 🗄 Database management:
+<p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" />
+</p>
 
 ### 🛠️ Development & Deployment
-- **Command Line / Terminal** workflows  
-- **Docker** for containerization  
-- Database management:
-  - SQL Server Management Studio  
-  - DB Browser for SQLite  
-
-### 💻 Platforms I Use
-- VS Code  
-- PyCharm  
-- Orange Data Mining  
-- Microsoft Office  
-
----
+<p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
+</p>
 
 ## 📂 Projects
 - **100 Days of Code** capstone projects  
